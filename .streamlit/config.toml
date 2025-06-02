@@ -22,3 +22,6 @@ level = "INFO"
 
 [runner]
 gatherUsageStats = false
+
+[ui]
+showSidebarNavigation = false
